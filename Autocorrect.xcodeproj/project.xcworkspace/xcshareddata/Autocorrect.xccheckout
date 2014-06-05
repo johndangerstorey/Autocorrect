@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>24D98C3C-BAA3-4D31-90BA-44B8BAD3A2C5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Autocorrect</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>10AAB866-7CEE-46E5-AA9A-572171CED91A</key>
+		<string>https://github.com/johndangerstorey/Autocorrect.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Autocorrect.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>10AAB866-7CEE-46E5-AA9A-572171CED91A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/johndangerstorey/Autocorrect.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>10AAB866-7CEE-46E5-AA9A-572171CED91A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>10AAB866-7CEE-46E5-AA9A-572171CED91A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Autocorrect</string>
+		</dict>
+	</array>
+</dict>
+</plist>
